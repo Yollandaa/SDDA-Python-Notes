@@ -16,7 +16,7 @@ def sum(a, b):
 - Declaration/definition -> def sum(a,b)
 - Parameters/arguments -> (a,b)
 - Body -> return a+b
-- Abstration -> You don't need to know how something works (hiding the implementation)
+- Why we use functions: Abstration -> You don't need to know how something works (hiding the implementation)
 - Types of arguments:
     - Position arguments -> sum(1,3) -> providing it in the correct order.
     - Keyword arguments -> sum(b = 2, a = 1)
@@ -67,6 +67,7 @@ map(lambda x:x *2, list)
 
 ## High order function
 - A function that takes another function as argument.
+- E.g., map and filter
 
 ## Assignment
 - Difference between parameters and arguments.
