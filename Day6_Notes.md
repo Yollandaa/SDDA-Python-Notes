@@ -27,6 +27,8 @@ pprint(class_avg)
 
 # Regex
 - Regex is case-sensitive: to avoid this, use flags=re.IGNORECASE
+- The square brackets is called character set []
+- The curly brackets are repetition
 - \d\d\d: Anything from 0-9
 - \D: Anything that is not a digit
 - .: Anything will match
