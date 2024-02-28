@@ -14,6 +14,8 @@
 - 2020 fully python 3
 - Any language is popular because of its community, and whether it can be used.
 - Zen of python: Rules in python (unspoken)
+
+
 - Father's lexical scope + Father's scope = Father's closure
 - Child's lexical scope + Child's scope = child's sclosure
 - Any mutable value we pass in a function is passed by reference
