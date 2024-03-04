@@ -32,8 +32,9 @@
 - Margin -> Create a gap betweem items (elements): different positions for margins (bottom)
 - Fonts:
     - Sans Serif -> No serif | Trendy organisations, playful | Social media
-    - Serif -> Tries to potray: Trust, Old and traditional -> Banks, financial inxtitutions, newspapers.
+    - Serif -> Tries to potray: Trust, Old and traditional -> Banks, financial inxtitutions, newspapers. Has tails.
     - font-family -> used for alternative fonts | fallbacks
+- Every element in html follows the box model.
 
 # Test Overview
 1. Class methods enable the method to acess and modify class state that applies accross all instances.
