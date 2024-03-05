@@ -12,4 +12,5 @@
 - Transition: 0.75s all ease-in-out -> timing functions
 - Flex and grid -> After 2017 -> Bootstrap uses these. -> 
 - Flex -> Apply on the parent -> Always tries to keep elements side by side no matter what -> The width you apply is just a suggestion.
-- Difference between space around and space evenly
+- Difference between space around and space evenly.
+
