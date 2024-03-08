@@ -15,6 +15,8 @@
     - Backups are inbuilt
     - Undo - easisly (time limit)
 - NoSQL -> Real time database
+- SQL -> PostgreSQL
+
 
 ## SQL
 - Structures Query Language -> a language designed to allow technical and non-technical users to work with databses.
