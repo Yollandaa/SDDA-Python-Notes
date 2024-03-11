@@ -18,6 +18,7 @@
 - Tight coupling -> Depende to server | they send html files instead
 - microsoft achitecture -> 
     - Go is more on performance
+    - multiple 
 
 ## Test Review
 - None does not preserve

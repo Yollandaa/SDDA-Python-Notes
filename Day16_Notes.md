@@ -1,0 +1,13 @@
+# Notes
+- DML:
+    - Data Manipulation Language
+    - SELECT, UPDATE, DELETE, INSERT
+- DDL:
+    - Data Definition
+    - CREATE, ALTER, DROP
+- Definiting a schema: Creating a table.
+- Before updating/deleting from the database you have to first select 
+- Serialization -> Converts to a json string | json.dumps
+- Deserialization -> Converts back to python objects | json.loads
+- indent -> For formating | Human need
+- Monolith architure -> Single database and 
