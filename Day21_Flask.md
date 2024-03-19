@@ -1,0 +1,13 @@
+# Introduction to Flask
+- The web needs html, js, and css.
+- We need a back-end to communicate with the database
+- REST Principle -> you should have all these methods in your backend
+    - GET -> Read
+    - POST -> Create
+    - PUT -> Update
+    - DELETE -> Delete
+- Web does the request 
+- Why JSON:
+    - Universal language
+    - Lose coupling
+    - Platform independent
