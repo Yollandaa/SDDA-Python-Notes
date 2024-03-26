@@ -1,0 +1,17 @@
+# Flask Notes
+- Status codes
+    - 401 -> When a user asks for something we do not have
+    - 201 -> Successful Post instead of 200
+- Generator expression:
+    - Error when it doesn't find the value, so we give it None.
+- ```{{}}``` -> mustach syntax
+- ```{{user.name}} {{ "🚀" if user.pro else "🎊🎊" }}``` - Ternary operation
+- Expressions
+    - Lambda functions -> Expressions
+    - Ternary operations -> ```y = "Cool"  if 5 > 4 else "Awesome" ```
+- Give shadows to images -> To make it more attractive.
+- Form only supports GET and POST -> Except if you are using JS
+- Azure
+    - server name -> yolanda-server
+    - login username -> yolandadastile
+    - password -> password@1
