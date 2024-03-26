@@ -14,4 +14,9 @@
 - Azure
     - server name -> yolanda-server
     - login username -> yolandadastile
-    - password -> password@1
+    - password -> password!1
+
+## Some steps
+- **Option 1**: Press `Windows + R` to open the Run dialog, type `odbcad32`, and press Enter.
+2. **Check Installed Drivers**:
+   - Once the ODBC Data Source Administrator is open, click on the "Drivers" tab. This will display a list of all ODBC drivers currently installed on your system.
