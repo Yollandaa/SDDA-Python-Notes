@@ -1,0 +1,16 @@
+# Day 25 Notes
+- ```load_dotenv()```  # load -> temporary as env
+    - Security -> Hides secrets from source code
+    - Flexibility -> Easy config changes without code edits.
+    - Convenience -> Uniform setup
+- We use ```uuid.uuid4``` -> random generated id 
+    - If you use auto-increment in the python side -> it takes more time bcs need to look for max
+    - When using multiple dbs it will have unique keys, merging becomes easier.
+-  flexibility of ```to_dict``` -> The db can have its own name while the front-end has its own one.
+- SQL Alchemy -> Package ORM (Object Relation Mapping) -> To understand the data we receive from SQL -> Abstraction -> No RAW SQL. -> Auto-complete
+        - Easy to work with datatypes -> can convert from class object to dict.
+        - Auto complete -> .query (those all)
+        - Can work with multiple databases. (Talks with MySQL, SQLServer, Postgres) -> Only change the connection string
+- Error Circular dependencies -
+    - Keeping the dependency after the movie class has been generated fixes the circular dependency. 
+- Model View Controller (MVC View)

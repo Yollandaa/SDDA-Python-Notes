@@ -9,7 +9,7 @@
     - Convert python to understandable SQL queries
     - If you just using the driver, you write RAW SQL -> "SELECT * movies" -> The data that comes back is difficult to use
     - SQL Alchemy -> Package ORM (Object Relation Mapping) -> To understand the data we receive from SQL -> Abstraction -> No RAW SQL. -> Auto-complete
-        - Easy to work with datatypes -> 
+        - Easy to work with datatypes -> can convert from class object to dict.
         - Auto complete -> .query (those all)
         - Can work with multiple databases. (Talks with MySQL, SQLServer, Postgres) -> Only change the connection string
     - 
